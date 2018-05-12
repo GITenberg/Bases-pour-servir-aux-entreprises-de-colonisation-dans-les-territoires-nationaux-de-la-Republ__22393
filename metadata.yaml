@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25306'
     url: http://www.gutenberg.org/2009/agents/25306
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22393#Bases-pour-servir-aux-entreprises-de-colonisation-dans-les-territoires-nationaux-de-la-Republ_
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2007-08-25'
 gutenberg_type: Text
