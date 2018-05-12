@@ -1,0 +1,26 @@
+_repo: Bases-pour-servir-aux-entreprises-de-colonisation-dans-les-territoires-nationaux-de-la-Republ__22393
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brougnes, Auguste
+    gutenberg_agent_id: '25306'
+    url: http://www.gutenberg.org/2009/agents/25306
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2007-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22393'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- Colonization'
+- !lcc 'F2801'
+title: Bases pour servir aux entreprises de colonisation  dans les territoires nationaux
+  de la Republique Argentine
+url: http://www.gutenberg.org/ebooks/22393
